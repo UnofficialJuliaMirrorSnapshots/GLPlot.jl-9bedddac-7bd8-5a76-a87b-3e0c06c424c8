@@ -1,0 +1,4 @@
+*.nrrd
+*.rawb
+/src/example
+*.db
